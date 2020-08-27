@@ -61,7 +61,7 @@ for i in range(len(differentFromAvg)):
     print("{}: {}".format(i, differentFromAvg[i]))
 
 '''
-What each value means(ordered_:
+What each value means(ordered):
 
 What gender
 What age(15-22)
